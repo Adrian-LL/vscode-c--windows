@@ -69,6 +69,7 @@ If you din not already installed you can do it now.
 > NOTE - You may get an error about git, let's ignore it for the moment.
 
 - **IMPORTANT** - Install C/C++ (Microsoft) extension (latest version was 0.20.1). This can be triggered by VSC if you enter a small code such as below and saving the file with a `.cpp` extension:
+
 ```C++
 //please ignore the errors...
 #include<iostream>
@@ -153,7 +154,7 @@ My launch.json (works well enough for debugging purposes)
 ```
 There are better configurations though :-)
 
-Note the use of forward slashes "/" in the paths specifications above - VSC recognizes them. Otherwise one can put escaped backslashes "\\".
+Note the use of forward slashes "/" in the paths specifications above - VSC recognizes them. Otherwise one can put escaped backslashes "\\\".
 
 Short remainder of the variables names - see more at https://code.visualstudio.com/docs/editor/variables-reference
 
