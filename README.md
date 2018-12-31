@@ -154,7 +154,7 @@ My launch.json (works well enough for debugging purposes)
 ```
 There are better configurations though :-)
 
-Note the use of forward slashes "/" in the paths specifications above - VSC recognizes them. Otherwise one can put escaped backslashes "\\\".
+Note the use of forward slashes `/` in the paths specifications above - VSC recognizes them. Otherwise one can put escaped backslashes `\\`.
 
 Short remainder of the variables names - see more at https://code.visualstudio.com/docs/editor/variables-reference
 
